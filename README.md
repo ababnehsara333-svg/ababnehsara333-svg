@@ -1,58 +1,97 @@
-# Hi, I'm Sara 👋
+# 👋 Hi, I'm Sara
 
-🎓 Software Engineering Graduate
-
-📊 Data Science & Machine Learning Enthusiast
-
-🚀 Passionate about building machine learning solutions, AI-powered applications, and user-focused products.
+### 🚀 Machine Learning Engineer | Data Scientist | AI Product Builder
 
 ---
 
-## 🔥 Current Focus
+## 🌟 About Me
 
-* Machine Learning
-* Data Analysis
-* Feature Engineering
-* Streamlit Applications
-* AI Product Development
-* UI/UX Design
+🎓 Software Engineering Graduate
+
+📊 Data Science Diploma Graduate
+
+🤖 Passionate about Machine Learning, Data Analysis, and AI Products
+
+🎨 Interested in UI/UX Design and Product Thinking
+
+📍 Austin, Texas
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚀 AI Career Advisor
+### 🚀 CareerPath AI
 
-An AI-powered career recommendation application that analyzes user skills, identifies skill gaps, and generates personalized learning roadmaps.
+AI-powered career advisor that recommends career paths, identifies skill gaps, and generates learning roadmaps.
 
 ### 🏠 House Price Prediction
 
-Machine learning model for predicting house prices using advanced regression techniques and feature engineering.
+Machine learning regression model with feature engineering and interactive Streamlit application.
+
+**R² Score: 0.88**
 
 ### 🏦 Bank Marketing Prediction
 
-Classification model that predicts whether a customer is likely to subscribe to a banking campaign.
+Predicts customer subscription behavior for marketing campaigns.
+
+**Accuracy: 85.8%**
 
 ### 📞 Customer Churn Prediction
 
-Predicts customer churn risk and helps identify customers likely to leave a telecom company.
+Predicts customer churn risk for telecom companies.
+
+**Accuracy: 80.3%**
 
 ### 🎓 Student Performance Predictor
 
-Predicts student exam scores based on academic, behavioral, and lifestyle factors.
+Predicts student exam performance using academic and lifestyle factors.
+
+**R² Score: 0.77**
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-Python • Pandas • NumPy • Scikit-Learn • Streamlit • Git • GitHub • SQL • Machine Learning • Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-## 📍 Location
+## 📈 GitHub Stats
 
-Austin, Texas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ababnehsara333-svg\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ababnehsara333-svg\&layout=compact\&theme=tokyonight)
 
 ---
 
-### 💡 Building projects, learning every day, and turning ideas into products.
+## 🎯 Current Focus
+
+* Machine Learning Projects
+* Feature Engineering
+* AI Product Development
+* Data Analysis
+* Streamlit Applications
+
+---
+
+## 📫 Connect With Me
+
+🐙 GitHub: https://github.com/ababnehsara333-svg
+
+💼 LinkedIn: 
+
+📧 Email: ababnehsara333@gmail.com
+
+---
+
+### ⭐ Turning Data Into Useful Products
