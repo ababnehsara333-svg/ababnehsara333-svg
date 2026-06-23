@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sara
+# 👋 Hi, I'm Sara 
 
 ### 🚀 Machine Learning Engineer | Data Scientist | AI Product Builder
 
