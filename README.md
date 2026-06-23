@@ -88,7 +88,7 @@ Predicts student exam performance using academic and lifestyle factors.
 
 🐙 GitHub: https://github.com/ababnehsara333-svg
 
-💼 LinkedIn: 
+💼 LinkedIn: http://linkedin.com/in/sara-sharif-6a11662b7
 
 📧 Email: ababnehsara333@gmail.com
 
